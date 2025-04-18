@@ -12,7 +12,6 @@ Sau khi người dùng hoàn tất 1 lần chơi,
 
 import random
 
-# Thống kê toàn cục
 player_wins = 0
 player_loses = 0
 
